@@ -1,0 +1,13 @@
+.App {
+  margin:0;
+}
+
+.display{
+
+  color: blue;
+  border: solid 5px black;
+}
+
+.diff {
+  color:red;
+}
