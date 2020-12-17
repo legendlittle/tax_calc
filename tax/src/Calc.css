@@ -1,0 +1,38 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.title {
+  text-align: center;
+  font: size 40px;
+  margin-top: 15px;
+}
+
+.by {
+  text-align: center;
+  font: size 30px;
+  padding: 10px;
+
+}
+
+.enter {
+  text-align: center;
+  font: size 30px;
+  padding: 10px;
+}
+.enterInfo {
+  display: block;
+  text-align: center;
+}
+
+.form-control {
+  border: 2px solid black;
+  width: 200px;
+  
+  text-align: center;
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+}
